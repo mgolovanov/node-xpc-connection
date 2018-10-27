@@ -48,5 +48,3 @@ Before creating a new issue for build errors, please set your path to the follow
 
 MacPorts and other similiar tools might be adding an incompatible compiler to your PATH (see issue [#2](https://github.com/sandeepmistry/node-xpc-connection/issues/2)) for more details.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-56089547-1/sandeepmistry/node-xpc-connection?pixel)](https://github.com/igrigorik/ga-beacon)
-
